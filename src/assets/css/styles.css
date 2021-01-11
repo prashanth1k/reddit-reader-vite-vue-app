@@ -1,0 +1,30 @@
+:root {
+  --color-primary: #14854f;
+}
+
+.logo-brand {
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 5em;
+}
+
+.post-item {
+  margin: 1em 0.5em 1em 0.5em;
+}
+
+.post-item-meta {
+  color: grey;
+  margin-bottom: 1em;
+}
+
+.router-link-active {
+  font-weight: bold;
+  color: var(--color-primary) !important;
+}
+
+.hero {
+  padding: 1em;
+  margin: 2em;
+}
